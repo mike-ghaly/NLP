@@ -15,7 +15,7 @@
 ## Language Representation
 |  Section | Sub-Section | Notebook | Paper Link | Repository Link |
 |--|--|--|--|--|
-| Sparse Representation | Bag-of-Words | | | |
+| Sparse Representation | Bag-of-Words | [BOW](https://colab.research.google.com/drive/15_4O7fsMIHm0UhJsNkGN3cOVSoQ4U8g-?authuser=1#folderId=1IO7QIQ58ZWLr4tPoXvYZ9h-QGg3XDpGf&updateTitle=true&scrollTo=LHzF1so3J8eB) | | |
 | | TF-IDF | | | |
 | Word-Level Dense Representation | Word2Vec | | | |
 | | GloVe | | | |
