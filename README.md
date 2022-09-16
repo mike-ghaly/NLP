@@ -1,7 +1,7 @@
 # Natural Language Processing
 
 ## Language Preprocessing
-|  Section | Sub-Section | Description | Paper Link | Repository Link |
+|  Section | Sub-Section | Notebook | Paper Link | Repository Link |
 |--|--|--|--|--|
 | String Matching | | |  |  |
 | Language Tokenization | Sub-Word Tokenization | |  |  |
@@ -13,7 +13,7 @@
 | Stop-Words| | |  |  |
 
 ## Language Representation
-|  Section | Sub-Section | Description | Paper Link | Repository Link |
+|  Section | Sub-Section | Notebook | Paper Link | Repository Link |
 |--|--|--|--|--|
 | Sparse Representation | Bag-of-Words | | | |
 | | TF-IDF | | | |
@@ -23,7 +23,7 @@
 | Sentence-Level Dense Representation| Doc2Vec | | | |
 
 ## Language Modelling
-|  Section | Sub-Section | Description | Paper Link | Repository Link |
+|  Section | Sub-Section | Notebook | Paper Link | Repository Link |
 |--|--|--|--|--|
 | N-Gram Model | | | | |
 | Neural Architectures | RNNs | | | |
@@ -34,7 +34,7 @@
 | | GPT3 | | | |
 
 ## Language Tasks
-|  Section | Sub-Section | Description | Paper Link | Repository Link |
+|  Section | Sub-Section | Notebook | Paper Link | Repository Link |
 |--|--|--|--|--|
 | Classification | Sentiment Analysis | | | |
 | | Language Identification | | | |
