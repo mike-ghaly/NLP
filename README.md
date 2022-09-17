@@ -7,7 +7,6 @@
 | Language Tokenization | Sub-Word Tokenization | |  |
 | | Word Tokenization | |  |
 | | Sentence Tokenization | |  |
-| Parts-of-Speech | | |  |
 | Language Normalization | Lemmatization | |  |
 | | Stemming | |  |
 | Stop-Words| | |  |
