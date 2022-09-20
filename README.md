@@ -3,7 +3,7 @@
 ## Language Preprocessing
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
-| String Matching | Regular Expressions | |  |
+| String Matching | Regular Expressions | [Regex](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Regular_Expressions.ipynb) |  |
 | Language Tokenization | Sub-Word Tokenization | |  |
 | | Word Tokenization | |  |
 | | Sentence Tokenization | |  |
