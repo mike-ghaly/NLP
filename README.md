@@ -3,7 +3,7 @@
 ## Language Preprocessing
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
-| String Matching | | |  |
+| String Matching | Regular Expressions | |  |
 | Language Tokenization | Sub-Word Tokenization | |  |
 | | Word Tokenization | |  |
 | | Sentence Tokenization | |  |
