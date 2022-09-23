@@ -5,10 +5,9 @@
 |--|--|--|--|
 | String Matching | Regular Expressions | [Regex](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Regular_Expressions.ipynb) |  |
 | Language Tokenization | Sub-Word Tokenization | |  |
-| | Word Tokenization | |  |
+| | Word Tokenization | [Word Tokenization](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Word_Tokenization.ipynb) |  |
 | | Sentence Tokenization | |  |
-| Language Normalization | Lemmatization | |  |
-| | Stemming | |  |
+| Language Normalization | Lemmatization/Stemming | [Lemmatization/Stemming](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Language_Normalization.ipynb) |
 | Stop-Words| | |  |
 
 ## Language Representation
