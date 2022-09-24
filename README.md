@@ -16,7 +16,7 @@
 | Sparse Representation | Bag-of-Words | [BOW](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/Bag_of_Words_Document_Representation.ipynb) | |
 | | TF-IDF | [TF-IDF](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/TF_IDF_Document_Representation.ipynb) | |
 | Word-Level Dense Representation | Word2Vec | [Word2Vec](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/Word2Vec_Word_Embeddings.ipynb) | [Efficient Estimation of Word Representations](https://arxiv.org/abs/1301.3781) |
-| | GloVe | | |
+| | GloVe | [GloVe](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/GloVe_Word_Embeddings.ipynb) | [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) |
 | | fastText | | |
 | Sentence-Level Dense Representation| Doc2Vec | | |
 
