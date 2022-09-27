@@ -20,10 +20,10 @@
 | | fastText | | |
 | Sentence-Level Dense Representation| Doc2Vec | | |
 
-## Language Modelling
+## Language Models
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
-| N-Gram Model | | | |
+| N-Gram Models | | | |
 | Neural Architectures | RNNs/LSTMs/GRUs | [RNNs](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/RNNs.ipynb) | |
 | | Seq2Seq | | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
 | | Seq2Seq With Attention | | |
