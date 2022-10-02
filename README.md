@@ -4,7 +4,7 @@
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
 | String Matching | Regular Expressions | [Regex](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Regular_Expressions.ipynb) |  |
-| Language Tokenization | Sub-Word Tokenization ||[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) |
+| Language Tokenization | Sub-Word Tokenization | [WordPiece Tokenization](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/WordPiece_Tokenization.ipynb) |[Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/abs/1609.08144) |
 | | Word Tokenization | [Word Tokenization](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Word_Tokenization.ipynb) |  |
 | | Sentence Tokenization | |  |
 | Language Normalization | Lemmatization/Stemming | [Lemmatization/Stemming](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Language_Normalization.ipynb) |
