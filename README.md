@@ -32,7 +32,7 @@
 ## Language Tasks
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
-| Classification | Sentiment Analysis | | |
+| Classification | Sentiment Analysis | [IMDb NB](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Sentiment_Analysis.ipynb) | |
 | | Language Identification | | |
 | Sequence Labelling | Parts-of-Speech Tagging | | |
 | | Named-Entity Recognition | | |
