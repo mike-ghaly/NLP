@@ -26,7 +26,7 @@
 | N-Gram Models | | [Tri-Gram LM](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/NGrams.ipynb) | |
 | Neural Architectures | RNNs/LSTMs/GRUs | [RNNs](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/RNNs.ipynb) | |
 | | Seq2Seq | [Seq2Seq (With Attention)](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/Seq2Seq_With_Attention.ipynb) | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
-| | Transformers | | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| | Transformers | [Transformer](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/Transformer.ipynb) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
 | Pre-trained Models | BERT | | |
 
 ## Language Tasks
