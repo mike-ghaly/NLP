@@ -16,7 +16,7 @@
 | | TF-IDF | [TF-IDF](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/TF_IDF_Document_Representation.ipynb) | |
 | Word-Level Dense Representation | Word2Vec | [Word2Vec](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/Word2Vec_Word_Embeddings.ipynb) | [Efficient Estimation of Word Representations](https://arxiv.org/abs/1301.3781) |
 | | GloVe | [GloVe](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/GloVe_Word_Embeddings.ipynb) | [GloVe: Global Vectors for Word Representation](https://nlp.stanford.edu/pubs/glove.pdf) |
-| | fastText | | |
+| | FastText | [FastText](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Representation/FastText_Word_Embeddings.ipynb) | [Enriching Word Vectors with Subword Information](https://arxiv.org/abs/1607.04606) |
 | Sentence-Level Dense Representation| Doc2Vec | | |
 
 ## Language Models
