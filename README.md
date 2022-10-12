@@ -8,7 +8,6 @@
 | | Word Tokenization | [Word Tokenization](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Word_Tokenization.ipynb) |  |
 | | Sentence Tokenization | |  |
 | Language Normalization | Lemmatization/Stemming | [Lemmatization/Stemming](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Preprocessing/Language_Normalization.ipynb) |
-| Stop-Words| | |  |
 
 ## Language Representation
 |  Section | Sub-Section | Notebook | Paper Link |
@@ -32,7 +31,7 @@
 ## Language Tasks
 |  Section | Sub-Section | Notebook | Paper Link |
 |--|--|--|--|
-| Classification | Sentiment Analysis | | |
+| Classification | Sentiment Analysis | [IMDb NB](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Sentiment_Analysis.ipynb) | |
 | | Language Identification | | |
 | Sequence Labelling | Parts-of-Speech Tagging | | |
 | | Named-Entity Recognition | | |
