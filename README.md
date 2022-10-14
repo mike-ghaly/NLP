@@ -29,12 +29,13 @@
 | Pre-trained Models | BERT | | |
 
 ## Language Tasks
-|  Section | Sub-Section | Notebook | Paper Link |
+|  Section | Sub-Section | Notebook | Model Architecture |
 |--|--|--|--|
-| Classification | Sentiment Analysis | [IMDb NB](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Sentiment_Analysis.ipynb) | |
-| | Language Identification | | |
-| Sequence Labelling | Parts-of-Speech Tagging | | |
+| Classification | Language Identification | [Language Identification](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Language_Identification.ipynb) | Embedding and Dense Layers |
+| | Sentiment Analysis | [IMDb NB](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Sentiment_Analysis.ipynb) | BoW Vectorization with Naive Bayes |
+| Sequence Labelling | Parts-of-Speech Tagging | [POS Tagging](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/POS_Tagging.ipynb) | Stacked Bidirectional LSTM |
 | | Named-Entity Recognition | | |
+| Machine Translation | English-Italian Translation | [EN-IT MT](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/EN_IT_Machine_Translation.ipynb) | Seq2Seq LSTM |
 | Summarization | Extractive Summarization | | |
 | | Abstractive Summarization | | |
 | | Hybrid Summarization | | |
