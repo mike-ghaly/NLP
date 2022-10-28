@@ -46,7 +46,7 @@
 |--|--|
 | Basic Pipeline | [0. 🤗Hugging Face Pipeline](https://github.com/Michael-M-Mike/NLP/blob/main/%F0%9F%A4%97Hugging%20Face/0.%20%F0%9F%A4%97Hugging%20Face%20Pipeline.ipynb) |
 | Fine-Tuning | [1. Fine-tuning a Pretrained 🤗Hugging Face Model](https://github.com/Michael-M-Mike/NLP/blob/main/%F0%9F%A4%97Hugging%20Face/1.%20Fine-tuning%20a%20Pretrained%20%F0%9F%A4%97Hugging%20Face%20Model.ipynb) |
-| Token Classification | |
+| Token Classification | [2. Fine-tuning BERT on NER Tagging](https://github.com/Michael-M-Mike/NLP/blob/main/%F0%9F%A4%97Hugging%20Face/2.%20Fine-Tuning%20BERT%20on%20NER%20Tagging.ipynb) |
 | Translation | |
 | Summarization | |
 
