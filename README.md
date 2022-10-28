@@ -26,7 +26,7 @@
 | Neural Architectures | RNNs/LSTMs/GRUs | [RNNs](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/RNNs.ipynb) | |
 | | Seq2Seq | [Seq2Seq (With Attention)](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/Seq2Seq_With_Attention.ipynb) | [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215) |
 | | Transformers | [Transformer](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Models/Transformer.ipynb) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
-| Pre-trained Models | BERT | | |
+| Pre-trained Models | BERT | | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
 
 ## Language Tasks
 |  Section | Sub-Section | Notebook | Model Architecture |
