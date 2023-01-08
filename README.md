@@ -36,7 +36,8 @@
 | Sequence Labelling | Parts-of-Speech Tagging | [POS Tagging](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/POS_Tagging.ipynb) | Stacked Bidirectional LSTM |
 | | Named-Entity Recognition | [NER Tagging](https://github.com/Michael-M-Mike/NLP/blob/main/%F0%9F%A4%97Hugging%20Face/2.%20Fine-Tuning%20BERT%20on%20NER%20Tagging.ipynb) | BERT Transformer |
 | Machine Translation | English-Italian Translation | [EN-IT MT](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/EN_IT_Machine_Translation.ipynb) | Seq2Seq LSTM |
-| Question Answering | QA on CoQA | | |
+| Question Answering | Extractive QA | | |
+| | Abstractive QA | [Abstractive QA on CoQA](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Seq2Seq_Abstractive_Question_Answering_(QA)_on_CoQA.ipynb) | Encoder-Decoder Transformer |
 | Summarization | Extractive Summarization | | |
 | | Abstractive Summarization | | |
 | | Hybrid Summarization | | |
