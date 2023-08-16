@@ -41,7 +41,7 @@
 | Summarization | Extractive Summarization | | |
 | | Abstractive Summarization | | |
 | | Hybrid Summarization | | |
-| Summarization | Extractive Summarization | | |
+| Conditional Generation | Clickbait Content Spoiling | [Clickbait Content Spoiling](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Clickbait_Content_Spoiling.ipynb) | FLAN-T5 |
 | Image Classification | | [Music Genre Classifier](https://github.com/Michael-M-Mike/NLP/blob/main/Language%20Tasks/Music_Genre_Classification_with_ViT.ipynb) | ViT |
 | |  | | |
 
